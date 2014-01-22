@@ -1,0 +1,30 @@
+#yolo {
+	border: 3px black dotted;
+	float:right;
+	font-family: verfana, tahoma, sans-serif;
+}
+thead {
+	background-color:#ddd;
+}
+tbody {
+	background-color:green;
+}
+td:hover{
+	background-color:aqua;
+}
+td{
+	border:1px black solid;
+}
+.sum > tr > td {
+	border-top:3px black solid;
+}
+tr{
+	-webkit-transition:background-color 2s;
+		-moz-transition:background-color 2s;
+		 -ms-transition:background-color 2s;
+	     -o-transition:background-color 2s;
+	        transition:background-color 2s;
+}
+.hej{
+	background-color:white;
+}
